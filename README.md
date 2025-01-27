@@ -26,6 +26,39 @@ MistralAI was chosen for this project because:
 
 ## Setup Instructions
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/ielts-simulator.git
-   cd ielts-simulator
+     git clone https://github.com/Masotlaabel/projectzero.git
+   cd projectzero
+
+## Set Up Backend:
+
+## Navigate to the backend folder:
+cd backend
+
+## Install dependencies:
+
+pip install -r requirements.txt
+## Run the Flask server:
+python app.py
+## Set Up Frontend:
+
+**Navigate to the frontend folder:**
+cd frontend
+ ## Install dependencies:
+npm install
+
+## Start the React app:
+npm start
+## Access the App:
+
+Open http://localhost:3000 in your browser.
+
+## Demo Video
+Watch the demo video here: [Loom Video Link](https://www.loom.com/share/e3935e619f1a4935a7abd9bc2e8cad99?sid=6f6a5497-81bb-4703-b547-d70af26e9d0d)
+
+## Future Improvements
+Add pronunciation feedback using phoneme analysis.
+
+Implement progress tracking for users over time.
+
+Support multiple languages for non-native English speakers.
+
